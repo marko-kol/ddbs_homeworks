@@ -1,0 +1,3 @@
+1. Jazik, email, galerija, administrator
+2. Email grupa, galerija opis, galerija slika, novost, dokument
+3. Email poraka, mailing
